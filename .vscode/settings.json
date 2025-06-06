@@ -9,6 +9,7 @@
 "files.eol": "\n",
 "workbench.editor.labelFormat": "short",
 "editor.tabSize": 2, // Final de linha sempre será LF
+"explorer.compactFolders": false,
 
   // 🛠 Formatação e Lint
 "editor.defaultFormatter": "esbenp.prettier-vscode",
